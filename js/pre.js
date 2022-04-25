@@ -1,1 +1,1 @@
-{let e=c$('tab');e[1].onclick(),e[2].hide(),e[2].after(Ele('a','tab',0,{innerText:_lang?'报名':'Submissions',href:'/submit/',target:'_blank'}))}
+{let e=c$('tab');e[1].hide(),e[2].hide(),e[2].after(Ele('a','tab',0,{innerText:_lang?'报名':'Submissions',href:'/submit/',target:'_blank'}))}
